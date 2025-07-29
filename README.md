@@ -1,4 +1,4 @@
-# Data Systems Final Project
+# 2021 MLB Pitches Thrown Analysis
 
 ## Project Description
 
